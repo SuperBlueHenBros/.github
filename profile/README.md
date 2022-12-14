@@ -1,5 +1,6 @@
-## Hi there 👋
+## 2022-2023 ECE Senior Design Team
 
+All repos as a part of our senior design project (AutoHawk) are located under this group.
 <!--
 
 **Here are some ideas to get you started:**
